@@ -157,3 +157,8 @@
 - Place: Kuliyapitiya, Kurunegala, Sri Lanka
 - Bio: Software engineer
 - GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+
+#### Name: [Anita Yip](https://github.com/ceruleanox)
+- Place: Boston, MA
+- Bio: Big data enthusiast, lifelong learner, and AmeriCorps Alum
+- GitHub: [ceruleanox](https://github.com/ceruleanox)
